@@ -1,0 +1,14 @@
+{
+  "name": "critical_ai",
+  "version": "0.1.0",
+  "description": "rtsp to rtmp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "salil mandal",
+  "license": "ISC",
+  "dependencies": {
+    "node-media-server": "^2.7.0"
+  }
+}
